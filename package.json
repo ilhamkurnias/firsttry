@@ -1,0 +1,24 @@
+{
+  "name": "ilham",
+  "version": "1.0.0",
+  "description": "firsttry",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.4",
+    "package.json": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilhamkurnias/firsttry.git"
+  },
+  "author": "ashri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilhamkurnias/firsttry/issues"
+  },
+  "homepage": "https://github.com/ilhamkurnias/firsttry#readme"
+}
